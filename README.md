@@ -8,7 +8,7 @@
 
 
 ### Requirements
-- Environment:Python 3.6 or above
+- Environment: Python 3.6 or above
 - tensorflow 1.9
 - pandas
 - gdown
