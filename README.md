@@ -1,5 +1,10 @@
 ## A Causal Inference Method for Reducing Gender Bias in Word Embedding Relations (AAAI 2020)
 
+### Paper
+Our paper "A Causal Inference Method for Reducing Gender Bias in Word Embedding Relations" is accepted by AAAI 2020. The arXiv version of this paper (with appendix) is: https://arxiv.org/abs/1911.10787
+
+This repository contains the code of the above paper.
+
 ### Instruction
 
 - Please run the file "HSR-GloVe_Gender Direction Relation_&_Lexical- and Sentence-Level Evaluation.ipynb" first to get the post-processed embedding ("hsrglove_wiki_vectors.txt").
