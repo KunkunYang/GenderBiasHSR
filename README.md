@@ -5,6 +5,10 @@ Our paper "A Causal Inference Method for Reducing Gender Bias in Word Embedding 
 
 This repository contains the code of the above paper.
 
+### Download
+
+The Half-Sibling Regression post-processed GloVe embedding (pre-trained on 2017 January dump of English Wikipedia) tested in our paper can be downloaded here: https://drive.google.com/file/d/1w7tl3xSg69L1zURTpQ6qDg0uXab_XKFw/view?usp=sharing
+
 ### Instruction
 
 - Please run the file "HSR-GloVe_Gender Direction Relation_&_Lexical- and Sentence-Level Evaluation.ipynb" first to get the post-processed embedding ("hsrglove_wiki_vectors.txt").
